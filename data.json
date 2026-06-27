@@ -1,0 +1,122 @@
+{
+  "P002": {
+    "name": "Rahul Verma",
+    "city": "Delhi",
+    "age": 32,
+    "gender": "male",
+    "height": 1.78,
+    "weight": 72,
+    "bmi": 22.72,
+    "verdict": "normal"
+  },
+  "P003": {
+    "name": "Priya Nair",
+    "city": "Kochi",
+    "age": 25,
+    "gender": "female",
+    "height": 1.62,
+    "weight": 54,
+    "bmi": 20.58,
+    "verdict": "normal"
+  },
+  "P004": {
+    "name": "Amit Singh",
+    "city": "Lucknow",
+    "age": 40,
+    "gender": "male",
+    "height": 1.73,
+    "weight": 98,
+    "bmi": 32.74,
+    "verdict": "obese"
+  },
+  "P005": {
+    "name": "Sneha Patel",
+    "city": "Ahmedabad",
+    "age": 29,
+    "gender": "female",
+    "height": 1.58,
+    "weight": 47,
+    "bmi": 18.83,
+    "verdict": "normal"
+  },
+  "P006": {
+    "name": "Vikram Rao",
+    "city": "Hyderabad",
+    "age": 35,
+    "gender": "male",
+    "height": 1.81,
+    "weight": 110,
+    "bmi": 33.58,
+    "verdict": "obese"
+  },
+  "P007": {
+    "name": "Meera Joshi",
+    "city": "Pune",
+    "age": 23,
+    "gender": "female",
+    "height": 1.68,
+    "weight": 60,
+    "bmi": 21.26,
+    "verdict": "normal"
+  },
+  "P008": {
+    "name": "Arjun Kapoor",
+    "city": "Chandigarh",
+    "age": 27,
+    "gender": "male",
+    "height": 1.75,
+    "weight": 58,
+    "bmi": 18.94,
+    "verdict": "normal"
+  },
+  "P009": {
+    "name": "Kavya Iyer",
+    "city": "Chennai",
+    "age": 31,
+    "gender": "female",
+    "height": 1.6,
+    "weight": 82,
+    "bmi": 32.03,
+    "verdict": "obese"
+  },
+  "P010": {
+    "name": "Rohan Gupta",
+    "city": "Jaipur",
+    "age": 38,
+    "gender": "male",
+    "height": 1.7,
+    "weight": 65,
+    "bmi": 22.49,
+    "verdict": "normal"
+  },
+  "P011": {
+    "name": "Aditi Chaudhary",
+    "city": "Mau",
+    "age": 45,
+    "gender": "female",
+    "height": 1.5,
+    "weight": 80.0,
+    "bmi": 35.56,
+    "verdict": "Obese"
+  },
+  "P012": {
+    "name": "Aditi Chaudhary",
+    "city": "Mau",
+    "age": 45,
+    "gender": "female",
+    "height": 1.5,
+    "weight": 80.0,
+    "bmi": 35.56,
+    "verdict": "Obese"
+  },
+  "P013": {
+    "name": "Rishabh Regis",
+    "city": "Gkp",
+    "age": 27,
+    "gender": "male",
+    "height": 1.2,
+    "weight": 60.0,
+    "bmi": 41.67,
+    "verdict": "Obese"
+  }
+}
